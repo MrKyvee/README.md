@@ -8,6 +8,4 @@
 </p>
 
 ## 📊 Meu Status  
-![Kayky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrKyvee&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKyvee&layout=compact&theme=radical)  
+![Kayky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrKyvee&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKyvee&layout=compact&theme=radical)  
