@@ -1,4 +1,4 @@
-## 💻 Mr. Kyvee
+## 🏄 Mr. Kyvee
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** | 💡 Apaixonado por tecnologia, programação e resolver problemas com código.
 
@@ -20,6 +20,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKyvee&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
+<div align="center" style="margin-top: 10px;">
+  <img src="https://streak-stats.demolab.com?user=MrKyvee&theme=radical&hide_border=true" alt="MrKyvee's GitHub Streak"/>
+</div>
+
 ---
-
-
